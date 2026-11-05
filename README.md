@@ -10,6 +10,10 @@ Actualmente busco prácticas o mi primera oportunidad como **Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-maldonado-herrero-62aa5a385/)
 
+## 🚀 Proyectos destacados
+
+- **[TikiMatemáticas](https://github.com/FonsoMH/MDA-DGP)**: aplicación educativa desarrollada en equipo (6 personas) para la asignatura de Metodologías de Desarrollo Ágiles del Grado en Ingeniería Informática (UGR), en colaboración con un centro educativo. Frontend con React Native + Expo, y backend en Python con PostgreSQL, todo orquestado con Docker.
+
 ## 🛠️ Tecnologías
 
 **Lenguajes**
@@ -33,7 +37,3 @@ Actualmente busco prácticas o mi primera oportunidad como **Software Engineer**
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 🚀 Proyectos destacados
-
-- **[TikiMatemáticas](https://github.com/FonsoMH/MDA-DGP)**: aplicación educativa desarrollada en equipo (6 personas) para la asignatura de Metodologías de Desarrollo Ágiles del Grado en Ingeniería Informática (UGR), en colaboración con un centro educativo. Frontend con React Native + Expo, y backend en Python con PostgreSQL, todo orquestado con Docker.
