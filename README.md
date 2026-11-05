@@ -13,6 +13,7 @@ Actualmente busco prácticas o mi primera oportunidad como **Software Engineer**
 ## 🚀 Proyectos destacados
 
 - **[TikiMatemáticas](https://github.com/FonsoMH/MDA-DGP)**: aplicación educativa desarrollada en equipo (6 personas) para la asignatura de Metodologías de Desarrollo Ágiles del Grado en Ingeniería Informática (UGR), en colaboración con un centro educativo. Frontend con React Native + Expo, y backend en Python con PostgreSQL, todo orquestado con Docker.
+- **[Habla con tu dinero](https://github.com/FonsoMH/financial-ai-assistant)** (Reto IA UGR): asistente financiero conversacional por voz y texto. Backend en FastAPI con un LLM local (Qwen2.5-7B vía Ollama) que usa tool calling para consultar saldos, hacer Bizum y convertir preguntas en lenguaje natural a consultas SQL (NL2SQL) sobre una base de datos SQLite. Frontend multiplataforma en React Native + Expo, con transcripción (Google STT) y síntesis de voz (gTTS).
 
 ## 🛠️ Tecnologías
 
