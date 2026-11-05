@@ -17,7 +17,8 @@ Me gustan los retos técnicos y aprender construyendo proyectos de principio a f
 
 ### 🚀 Proyectos destacados
 - **[TikiMatemáticas](https://github.com/FonsoMH/MDA-DGP)**: aplicación educativa desarrollada en equipo (6 personas) para la asignatura de Metodologías de Desarrollo Ágiles del Grado en Ingeniería Informática (UGR), en colaboración con un centro educativo. Frontend multiplataforma (web, Android e iOS) con React Native + Expo, y backend en Python con PostgreSQL, todo orquestado con Docker.
-- 
+
+
 ### 🎯 ¿Qué busco?
 Busco prácticas o mi primera oportunidad como **Software Engineer** (Full Stack, IA o cualquier ámbito de la ingeniería informática), en un equipo del que pueda aprender mucho y al que pueda aportar desde el primer día.
 
